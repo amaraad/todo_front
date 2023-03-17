@@ -53,16 +53,28 @@
         </li>
         <li class="text-gray-100 hover:text-purple-400">
           <NuxtLink
-              to="/news"
+              to="/type/list"
               class="
             font-bold
             text-gray-100
             hover:text-purple-400
           "
           >
-          Мэдээ
+          Миний ажлын төрлүүд
           </NuxtLink>
         </li>
+          <li class="text-gray-100 hover:text-purple-400">
+            <NuxtLink
+                to="/type/add"
+                class="
+            font-bold
+            text-gray-100
+            hover:text-purple-400
+          "
+            >
+              Ажлын төрөл бүртгэх
+            </NuxtLink>
+          </li>
       </ul>
     </nav>
   </div>
