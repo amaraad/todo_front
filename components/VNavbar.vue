@@ -75,6 +75,18 @@
               Ажлын төрөл бүртгэх
             </NuxtLink>
           </li>
+          <li class="text-gray-100 hover:text-purple-400">
+            <NuxtLink
+                to="/login"
+                class="
+            font-bold
+            text-gray-100
+            hover:text-purple-400
+          "
+            >
+              Нэвтрэх
+            </NuxtLink>
+          </li>
       </ul>
     </nav>
   </div>

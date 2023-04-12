@@ -101,6 +101,49 @@
       </div>
     </div>
   </div>
+  <div class="bg-white border-t py-8">
+    <div class="max-w-6xl mx-auto  pb-6 sm:pb-8  px-4 sm:px-6 lg:px-8">
+      <div class="grid gap-8  grid-cols-1 lg:grid-cols-3">
+        <div class="text-center sm:flex sm:text-left lg:block lg:text-center aos-init aos-animate" data-aos="zoom-in" data-aos-duration="1000">
+          <div class="sm:flex-shrink-0">
+            <div class="flow-root">
+              <img class="w-24 mx-auto  pt-2 sm:pt-4" src="https://kom.mn/static/icons/truck.gif" alt="Захиалга хүргэх">
+            </div>
+          </div>
+          <div class="mt-3 sm:mt-0 sm:ml-3 lg:mt-3 lg:ml-0">
+            <h3 class="text-sm font-medium text-gray-900">Захиалга хүргэх</h3>
+            <p class="mt-2 text-sm text-gray-500">Таны захиалга баталгаажсаны дараа бид 1-2 хоногийн дотор хүргэнэ.</p>
+          </div>
+        </div>
+        <div class="text-center sm:flex sm:text-left lg:block lg:text-center aos-init aos-animate" data-aos="zoom-in" data-aos-duration="1000">
+          <div class="sm:flex-shrink-0">
+            <div class="flow-root">
+              <img class="w-20 mx-auto  pt-6 sm:pt-8" src="https://kom.mn/static/icons/payment.gif" alt="Төлбөрийн нөхцөл">
+            </div>
+          </div>
+          <div class="mt-3 sm:mt-0 sm:ml-3 lg:mt-3 lg:ml-0">
+            <h3 class="text-sm font-medium text-gray-900">Төлбөрийн нөхцөл</h3>
+            <p class="mt-2 text-sm text-gray-500">Төлбөрийг бүрэн шилжүүлснээр захиалга баталгаажна. Та гүйлгээний утга дээр захиалгын код, утасны дугаараа бичээрэй.</p>
+          </div>
+        </div>
+        <div class="text-center sm:flex sm:text-left lg:block lg:text-center aos-init aos-animate" data-aos="zoom-in" data-aos-duration="1000">
+          <div class="sm:flex-shrink-0">
+            <div class="flow-root">
+              <img class="w-20 mx-auto  pt-6 sm:pt-8" src="https://kom.mn/static/icons/box.gif" alt="Хүргэлтийн нөхцөл">
+            </div>
+          </div>
+          <div class="mt-3 sm:mt-0 sm:ml-3 lg:mt-3 lg:ml-0">
+            <h3 class="text-sm font-medium text-gray-900">Хүргэлтийн нөхцөл</h3>
+            <p class="mt-2 text-sm text-gray-500">
+              10 ба түүнээс дээш бүтээгдэхүүнд хүргэлт ҮНЭГҮЙ.
+              Бусад тохиолдолд хүргэлтийн төлбөр
+              5’000₮.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script setup>
